@@ -1,0 +1,4 @@
+- Jika sudah memiliki file list nama folder yang akan di buat maka cukup pindakan ke folder file.
+- Nama folder harus berada di kolom A.Jika ingin kolom yang berbeda,ubah index folderName := row[0] sesuai kebutuhan,kode ini berada di folder app, file buat_folder.go .
+- Saat ini hanya bisa menggunakan file dari MS.Excel.
+- Untuk build ke 64 atau 32 bit ,ketik "set GOARCH=amd64" atau "set GOARCH=386" di terminal.
